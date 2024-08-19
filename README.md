@@ -17,13 +17,8 @@ Das Programm führt folgende Schritte aus:
 - **Visa:** 13 oder 16 Ziffern, beginnt mit "4"
 
 ## Beispielausgabe
-```bash
-Dieses Programm validiert Kreditkartennummern.
-Unterstützte Karten: AMEX, VISA und MASTERCARD.
-Bitte geben Sie eine Kreditkartennummer zur Validierung ein.
-Number: 4111111111111111
-VISA
-```
+![AMEX_Mastercard](https://github.com/user-attachments/assets/58b0e079-5195-491d-8456-f8d599dd0ad5)
+
 
 ## Technologie
 
