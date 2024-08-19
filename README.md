@@ -36,5 +36,5 @@ Das Programm ist einfach erweiterbar, um neue Kreditkartentypen oder zusätzlich
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der `LICENSE`-Datei.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der [LICENSE](LICENSE)-Datei.
 
